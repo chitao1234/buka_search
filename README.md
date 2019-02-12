@@ -4,6 +4,8 @@
 
 ## Usage
 
+请将`buka2cache.txt`与`buka2.py`置入同一文件夹以加快获取速度
+
 直接运行即可，建议使用CPython3.7.2
 
 Range为要搜索的id范围，将会搜索(1-Range)
